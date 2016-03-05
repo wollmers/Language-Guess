@@ -69,7 +69,8 @@ Language::Guess - Guess language from text using top 1000 words
 
 =head1 DESCRIPTION
 
-Language::Guess is
+Language::Guess matches the words in the text against lists of the top 1000 words
+in each of 45 different languages.
 
 =head2 CONSTRUCTOR
 
