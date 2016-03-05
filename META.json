@@ -1,5 +1,5 @@
 {
-   "abstract" : "Longest Common Subsequence",
+   "abstract" : "Guess language from text using top 1000 words",
    "author" : [
       "Helmut Wollmersdorfer <helmut.wollmersdorfer@gmail.com>"
    ],
