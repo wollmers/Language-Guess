@@ -1,6 +1,6 @@
 use strict;
 use Test::More;
-use LCS;
+use Language::Guess;
 
 # replace with the actual test
 ok 1;
